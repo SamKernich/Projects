@@ -1,3 +1,10 @@
+""" 
+This code is used to animate the position of the particles in the particle accelerator, based on simulated readings
+from beam position monitors that are spread in intervals around the accelerator. 
+
+Created: 12/05/2025 by Sam Kernich
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
